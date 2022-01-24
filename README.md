@@ -8,4 +8,4 @@ It allows to:
 It uses:
 - UI (tkinter)
 - random module (to randomize shown word)
-- pandas module (to manipulate with .csv file)
+- pandas module (to manipulate .csv file that keeps data with words to learn)
